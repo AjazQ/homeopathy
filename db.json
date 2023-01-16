@@ -1,102 +1,124 @@
-[
+{
+"remedies":[
 	{
+		"id": 1,
 		"CommonName": "Licorice root",
 		"BotanicalName": "Glycyrrhiza glabra/ uralensis",
 		"Memo": "Licorice root is an excellent tonic and one of the most basic tools of any herbalist. Chinese Licorice root was called the \"Great Detoxifier\".<br><br>Note: Licorice root has been known to reduce potassium levels leading to possible heart problems. "
 	},
 	{
+		"id": 2,
 		"CommonName": "Alfalfa",
 		"BotanicalName": "Medicago sativa",
 		"Memo": "Alfalfa (leaves and flowers) are listed as a general tonic and may support healing for the whole system.<br>Alfalfa contains many vitamins, minerals, enzymes and trace minerals.<br><br>Warning: In a higher dosage, Alfalfa seeds may be toxic."
 	},
 	{
+		"id": 3,
 		"CommonName": "Betony",
 		"BotanicalName": "Stachys officinalis",
 		"Memo": "General tonic. Has been used as a substitute for black tea."
 	},
 	{
+		"id": 4,
 		"CommonName": "Taheebo",
 		"BotanicalName": "Tabebuia avellanedae",
 		"Memo": "Taheebo is a good tonic but is also listed for its cancer and virus fighting abilities."
 	},
 	{
+		"id": 5,
 		"CommonName": "Cocklebur root",
 		"BotanicalName": "Xanthium strumarium",
 		"Memo": "Cocklebur is a tonic, calms the nerves, and in use for urinary problems and malaria.<br>It is also said to be effective for certain cancers."
 	},
 	{
+		"id": 6,
 		"CommonName": "Broadleaf Dock",
 		"BotanicalName": "Rumex obtusifolius",
 		"Memo": "Curled or Yellow dock has similar tonic properties."
 	},
 	{
+		"id": 7,
 		"CommonName": "Turtlehead (Balmony)",
 		"BotanicalName": "Chelone glabra",
 		"Memo": "Early settlers used Turtlehead for rejuvenation. On the chosen day they would take only a spoonful of the herb's fresh juice and then they would observe a strict diet for up to four days.<br>Turtlehead is a general tonic used for debility, indigestion, constipation, piles and worms."
 	},
 	{
+		"id": 8,
 		"CommonName": "Angelica",
 		"BotanicalName": "Angelica atropurpurea",
 		"Memo": "Angelica is a good tonic. Chinese Angelica (Dong Quai) is one of the main tonics for women.<br><br>Note: Angelica is known to increase the blood's sugar level. It should not be taken by diabetics, nor by pregnant women."
 	},
 	{
+		"id": 9,
 		"CommonName": "Anise",
 		"BotanicalName": "Pimpinella anisum",
 		"Memo": "Anise contains essential vitamins, minerals and estrogen. It is known to stimulate all glands and organs in the body."
 	},
 	{
+		"id": 10,
 		"CommonName": "Bee Pollen",
 		"BotanicalName": "no entry",
 		"Memo": "Contains many, if not all, important nutrients."
 	},
 	{
+		"id": 11,
 		"CommonName": "Black Cohosh",
 		"BotanicalName": "Cimicifuga racemosa",
 		"Memo": "Black Cohosh has a stimulating effect on the whole body and is especially useful for balancing female hormones."
 	},
 	{
+		"id": 12,
 		"CommonName": "Black Walnut",
 		"BotanicalName": "Juglans nigra",
 		"Memo": "The nuts are very nutritious, containing iodine, many minerals, the oxygen supplying vitamin B15, and a high level of Omega 3 fatty acids."
 	},
 	{
+		"id": 13,
 		"CommonName": "Blessed Thistle",
 		"BotanicalName": "Cnicus benedictus",
 		"Memo": "Blessed Thistle improves circulation and is a general tonic for all organs including the brain."
 	},
 	{
+		"id": 14,
 		"CommonName": "Blue Vervain",
 		"BotanicalName": "Verbena hastata",
 		"Memo": "Blue Vervain is a tonic for the lungs, intestines and the nerves.<br>It contains some Vit. E and C; also Calcium and Manganese."
 	},
 	{
+		"id": 15,
 		"CommonName": "Borage",
 		"BotanicalName": "Borago officinalis",
 		"Memo": "Borage is called the 'Herb of Gladness.' It is a general tonic for the heart, the lungs, the nerves, the mucous membranes, the glands and the intestines."
 	},
 	{
+		"id": 16,
 		"CommonName": "Ashwagandha",
 		"BotanicalName": "Withania somnifera",
 		"Memo": "Called the \"Indian Ginseng.\" Used to strengthen body and mind.<br>All docks seem to be good<br>for the liver (as most of the bitter tasting plants are) and for the blood."
 	},
 	{
+		"id": 17,
 		"CommonName": "Centaury",
 		"BotanicalName": "Erythraeu centaurium",
 		"Memo": "Centaury is a general tonic for the whole body."
 	},
 	{
+		"id": 18,
 		"CommonName": "Damiana",
 		"BotanicalName": "Turnera aphrodisiaca",
 		"Memo": "Damiana has been used as an aphrodisiac. But, its tonic effects concern the whole body and the leaves and roots are good for exhaustion."
 	},
 	{
+		"id": 19,
 		"CommonName": "False Unicorn",
 		"BotanicalName": "Chamaelirium luteum",
 		"Memo": "False Unicorn is known for its tonic properties. It soothes the intestinal membranes and is good for all digestive problems.<br>It is also listed as a tonic for the kidneys, the prostate and the uterus."
 	},
 	{
+		"id": 20,
 		"CommonName": "Irish Moss",
 		"BotanicalName": "Chondrus crispus",
 		"Memo": "Irish Moss is an excellent Tonic with immune enhancing properties. <br>Irish Moss is a seaweed, and like other seaweeds, it contains Iodine, many vitamins and minerals."
 	}
 ]
+}
